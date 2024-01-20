@@ -1,2 +1,8 @@
 # Something-funny
-A simple CSS effect, created by a newbie coder.
+<ol>
+<li> A simple CSS effect, created by a newbie coder.<br></li>
+<li> It is a simple hover effect with clipping on. <br></li>
+<li> Do not visit it on Chromium browsers as I forgot to include --web-kit.<br></li>
+<li> I have studied CSS for like 45 minutes or something. <br></li>
+<li> It is only a CSS, HTML site</li>
+</ol>
